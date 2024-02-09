@@ -4,7 +4,8 @@ Advisor: Hossein Hassani
 
 # Kurdis Text to Speech (Kids Story Reader in Sorani Krudish)
 
-This research assess the development of a storytelling TTS system in Sorani Kurdish for children aged five to ten by comparing two different TTS methodologies and technologies. Two female narrators narrate the stories, based on which we created the datasets. The collected records are nearly seven hours long and are pre-processed, segmented, and aligned with the transcribed texts.
+The data of this repository has been presented in our paper ["Let Me Read You a Story in Your Mother Tongue! Kids Story Reader in Sorani Kurdish (Central Kurdish)
+"](https://www.qeios.com/read/NT5LBM) the development of a storytelling TTS system in Sorani Kurdish for children aged five to ten by comparing two different TTS methodologies and technologies. Two female narrators narrate the stories, based on which we created the datasets. The collected records are nearly seven hours long and are pre-processed, segmented, and aligned with the transcribed texts. Find the related paper 
 
 If you use this data please cite it as:
 
