@@ -1,4 +1,5 @@
 Researcher: Bala Farahd
+
 Advisor: Hossein Hassani
 
 # Kurdis Text to Speech (Kids Story Reader in Sorani Krudish)
