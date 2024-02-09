@@ -7,4 +7,4 @@ This research assess the development of a storytelling TTS system in Sorani Kurd
 
 If you use this data please cite it as:
 
-Bala Farhad, Hossein Hassani. (2024). Let Me Read You a Story in Your Mother Tongue! Kids Story Reader in Sorani Kurdish (Central Kurdish). Qeios. doi:10.32388/NT5LBM.
+Farhad, B., Hassani, H. (2024). Let Me Read You a Story in Your Mother Tongue! Kids Story Reader in Sorani Kurdish (Central Kurdish). Qeios. doi:10.32388/NT5LBM.
