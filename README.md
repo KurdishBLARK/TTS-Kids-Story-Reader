@@ -9,4 +9,4 @@ The data of this repository has been presented in our paper ["Let Me Read You a 
 
 If you use this data please cite it as:
 
-Farhad, B., Hassani, H. (2024). Let Me Read You a Story in Your Mother Tongue! Kids Story Reader in Sorani Kurdish (Central Kurdish). Qeios. doi:10.32388/NT5LBM.
+Farhad, B., Hassani, H. (2024). Let Me Read You a Story in Your Mother Tongue! Kids Story Reader in Sorani Kurdish (Central Kurdish). Qeios. doi:10.32388/NT5LBM.2.
